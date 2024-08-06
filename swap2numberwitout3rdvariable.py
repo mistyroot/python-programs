@@ -7,6 +7,8 @@ a = a ^ b
 b = a ^ b
 a = a ^ b
 
+#x,y=y,x
+#print(x,y)
 
 print(f"After swapping: a = {a}, b = {b}")
 
