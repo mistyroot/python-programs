@@ -29,4 +29,3 @@ for i in range(n):
         list1.remove(int(cmd[1]))
 
 
-
