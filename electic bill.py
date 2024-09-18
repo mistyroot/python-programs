@@ -16,5 +16,6 @@ else:
     # For units greater than 200
     amt = 500 + (units - 200) * 10
 
+
 # Display the total amount
 print(f"Total amount: {amt} ")
