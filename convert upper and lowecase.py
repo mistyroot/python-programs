@@ -9,3 +9,4 @@ elif ch>="A" and ch<= "Z":
     print(f"Lowercase {chr(ord(ch)+32)}")
 else:
     print(f"character is not alphabet")
+
