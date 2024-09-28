@@ -21,6 +21,7 @@ def factorial(num1):
         fact=fact*i
     print(f"factorial is {fact}")
 
+
 count_digits(4567)
 isprime(6)
 isprime(7)
