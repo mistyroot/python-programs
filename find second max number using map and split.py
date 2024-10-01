@@ -15,3 +15,5 @@ c=list1.count(fmax_value)
 print(list1[-(c+1)])
 
 
+
+
