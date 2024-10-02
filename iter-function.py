@@ -9,3 +9,4 @@ print(value1,value2,value3)
 
 for value in a:
     print(value)
+
