@@ -11,3 +11,4 @@ print(f'Name {name}')
 print(f'Marks {marks}')
 print(f'Total Marks {total}')
 print(f'Avg Marks {avg:.2f}')
+
