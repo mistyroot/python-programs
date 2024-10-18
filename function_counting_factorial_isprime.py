@@ -26,5 +26,3 @@ count_digits(4567)
 isprime(6)
 isprime(7)
 factorial(4)
-
-
