@@ -12,6 +12,3 @@ if c==2:
     print(f'{num} is prime')
 else:
     print(f'{num} is not prime')
-
-
-
