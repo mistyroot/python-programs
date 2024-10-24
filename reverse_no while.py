@@ -5,5 +5,3 @@ while num>0:
     rev=(rev*10)+r
     num=num//10
 print(f"Reverse number {rev}")
-
-
