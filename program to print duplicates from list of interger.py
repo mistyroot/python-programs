@@ -18,4 +18,3 @@ for value in list2:
     if c>1:
         print(value)
 
-
