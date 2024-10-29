@@ -13,3 +13,4 @@ else:
     
 print(f"discount is {discount}")
 print(f"Net amount is {price-discount}")
+
