@@ -10,3 +10,5 @@ for i in range(len(list1)): # 0 1 2 3 4 5 6 7
             c=c+1
     if c==2:
         print(num)
+
+

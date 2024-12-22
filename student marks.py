@@ -5,3 +5,5 @@ total_marks=sub1_marks+sub2_marks
 Average_marks=(sub2_marks+sub1_marks)/2
 print("total msrks:",total_marks)
 print("average marks:",Average_marks)
+
+

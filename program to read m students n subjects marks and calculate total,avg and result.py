@@ -20,3 +20,4 @@ for row in marks:
 
     print(f"{row}\t{total}\t{avg}\t{result}")
 
+

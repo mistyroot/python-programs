@@ -5,3 +5,4 @@ R= float(input("Enter a rate in percentage:"))
 simple_intrest=(P*T*R)/100
 print("simple interest is:",simple_intrest)
 
+

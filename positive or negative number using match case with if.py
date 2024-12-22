@@ -6,3 +6,5 @@ match num:
         print("Negative number")
     case _:
         print("Zero")
+
+        

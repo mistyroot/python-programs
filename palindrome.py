@@ -13,3 +13,5 @@ if rev==num1:
     print("Pal")
 else:
     print("Not pal")
+
+    

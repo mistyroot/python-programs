@@ -8,3 +8,4 @@ else:
     print(f"{name} is not eligible for vote")
 
 print("thanks for using voter eligibility app")
+

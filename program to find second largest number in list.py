@@ -16,3 +16,5 @@ for value in list1:
         c=c+1
 print(f"second maximum is {list1[-(c+1)]}")
 
+
+

@@ -31,3 +31,5 @@ for value in list1:
 
 print(f'Even Count {ecount}')
 print(f'Odd Count {ocount}')
+
+

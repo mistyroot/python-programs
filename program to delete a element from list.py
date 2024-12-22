@@ -17,3 +17,5 @@ while index< l:
 #after remove 
 print(list1)
 
+
+

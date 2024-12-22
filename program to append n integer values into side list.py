@@ -6,3 +6,5 @@ for i in range(n):
     list1.append(value)
 
 print(list1)
+
+

@@ -17,3 +17,4 @@ for value in list2:
             c=c+1
     if c>1:
         print(value)
+

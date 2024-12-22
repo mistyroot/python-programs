@@ -12,3 +12,5 @@ for i in range(len(list1)):
 print(f'List is {list1}')
 print(f'Even Count {even_count}')
 print(f'Odd Count {odd_count}')
+
+

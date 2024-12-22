@@ -19,3 +19,5 @@ for s in marks:
 
 print(f"{name}\t{marks}\t{total}\t{avg:.2f}\t{result}")
 
+
+

@@ -5,3 +5,4 @@ if last_digit % 3 == 0:
     print(f"{num} last digit is divisible by 3")
 else:
     print(f"{num} last digit is not divisible by 3")
+

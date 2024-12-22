@@ -6,3 +6,4 @@ while a<=10:
     a=a+1
     
 print(f"sum of numbers is {s}")
+

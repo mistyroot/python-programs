@@ -14,3 +14,5 @@ else:
     print(f'{num} is not prime')
 
     
+
+    

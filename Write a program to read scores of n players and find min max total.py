@@ -29,3 +29,5 @@ for s in scores:
         min_score=s
 
 print(f'Minimum Score is {min_score}')
+
+

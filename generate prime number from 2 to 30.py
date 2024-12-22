@@ -6,3 +6,6 @@ for num in range(2,21):
             c+=1
     if c==2:
         print(num)
+
+
+        

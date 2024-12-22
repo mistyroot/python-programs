@@ -21,3 +21,4 @@ print(f"After swapping: a = {a}, b = {b}")
 # a = a ^ b:
 # a = 0110 ^ 0101 = 0011 (binary for 3, original value of b)
 # After these operations, a is 3 and b is 5, effectively swapping their values.
+

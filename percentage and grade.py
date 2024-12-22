@@ -8,3 +8,5 @@ elif p>60<=80:
     print("C")
 else:
     print("D")
+
+    

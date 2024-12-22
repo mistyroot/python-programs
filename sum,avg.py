@@ -8,3 +8,5 @@ for i in range(n): # start=0,stop=n,step=1
 
 print(f'Sum is {s}')
 print(f'Avg is {s/n:.2f}')
+
+
