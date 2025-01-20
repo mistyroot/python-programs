@@ -4,5 +4,3 @@ if num1 > num2:
     print(f"the {num2} is lowest number")
 else:
     print(f"the {num1} is lowest number")
-
-    

@@ -7,4 +7,3 @@ while n<=10:
     print("Bye")
     n=n+1
     break
-

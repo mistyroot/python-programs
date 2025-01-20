@@ -8,5 +8,3 @@ while True:
         break
 
 print(list1)
-
-

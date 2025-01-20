@@ -8,5 +8,3 @@ match a:
         print("Three")
     case _:
         print("Default")
-
-        

@@ -14,4 +14,3 @@ while i<=num:
     i=i+1
 else:
     print(f'factorial of {num} is {fact}')
-

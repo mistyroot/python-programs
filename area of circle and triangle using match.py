@@ -18,4 +18,3 @@ match opt:
         print("Thanks for using menu")
     case _:
         print("please enter option between 1 3")
-    

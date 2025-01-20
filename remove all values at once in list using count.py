@@ -6,4 +6,3 @@ for i in range(c):
     list1.remove(Value)
 
 print(list1)
-

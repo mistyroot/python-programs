@@ -10,4 +10,3 @@ for i in range(n-2):
     print(c,end=' ')
     a=b
     b=c
-

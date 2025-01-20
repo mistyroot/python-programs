@@ -10,5 +10,3 @@ while num<=999:
     if s==num:
         print(num)
     num=num+1
-
-    

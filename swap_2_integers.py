@@ -5,5 +5,3 @@ c=a
 a=b
 b=c
 print("After swapping value of a and b:",a,b)
-
-

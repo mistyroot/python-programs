@@ -9,6 +9,3 @@ if valid:
     print("Welcome")
 else:
     print("3 attept are completed, your account is blocked")
-
-
-    

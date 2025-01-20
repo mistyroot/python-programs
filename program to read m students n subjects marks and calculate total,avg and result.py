@@ -19,5 +19,3 @@ for row in marks:
             break
 
     print(f"{row}\t{total}\t{avg}\t{result}")
-
-

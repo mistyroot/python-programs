@@ -12,5 +12,3 @@ print(f'Before swaping {list1}')
 
 list1[pos1-1],list1[pos2-1]=list1[pos2-1],list1[pos1-1]
 print(f'After swaping {list1}')
-
-

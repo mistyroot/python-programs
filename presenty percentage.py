@@ -6,5 +6,3 @@ if p<75:
     print("not eligible to sit exam")
 else:
     print("eligible to sit exam")
-
-

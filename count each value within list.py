@@ -10,5 +10,3 @@ print(list2)
 for value in list2:
     c= list1.count(value)
     print(f"{value}--------> {c}")
-
-    

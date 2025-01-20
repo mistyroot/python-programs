@@ -11,6 +11,3 @@ for i in range(n):
             list1[j],list1[j+1]=list1[j+1],list1[j]
 
 print(f"After sorting: {list1}")
-
-
-

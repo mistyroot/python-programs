@@ -7,7 +7,3 @@ elif (ch>"0" and ch<"9"):
     print (f"{ch} is digit")
 else:
     print(f"{ch} is special character")
-
-
-
-

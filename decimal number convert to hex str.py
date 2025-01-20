@@ -11,4 +11,3 @@ while num != 0:
     num //= 16
 
 print(f"Hexadecimal representation: {hexadecimal}")
-

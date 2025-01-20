@@ -7,5 +7,3 @@ print("temp in fahrenheit:",fahrenheit)
 fahrenheit_1= float(input("Enter a temp in fahrenheit:"))
 celsius_1= (fahrenheit_1-32)*5/9
 print("temp in celsius_1:",celsius_1)
-
-

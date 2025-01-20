@@ -18,6 +18,3 @@ for s in marks:
         break
 
 print(f"{name}\t{marks}\t{total}\t{avg:.2f}\t{result}")
-
-
-

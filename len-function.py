@@ -6,7 +6,3 @@ if index>= 0 and index< len(student_names) or (index >= -len(student_names)) and
     print(f'Student_name {name}')
 else:
     print("invalid index")
-
-    
-
-    

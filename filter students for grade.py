@@ -8,4 +8,3 @@ gradeC_list=[stud for stud in grade_list if stud[1]=='C' ]
 print(gradeA_list)
 print(gradeB_list)
 print(gradeC_list)
-

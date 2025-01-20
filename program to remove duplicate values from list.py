@@ -14,4 +14,3 @@ list1= [10,20,30,40,50,10,20,30,40,50,90,80,80,70]
 list2= list(set(list1))
 print(list1)
 print(list2)
-

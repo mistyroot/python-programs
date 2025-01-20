@@ -16,6 +16,3 @@ while index< l:
         index = index + 1
 #after remove 
 print(list1)
-
-
-

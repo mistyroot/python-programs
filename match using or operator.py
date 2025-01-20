@@ -8,5 +8,3 @@ match a:
         print("4 or 8 or 16")
     case _:
         print("does not match any pattern")
-
-        

@@ -28,5 +28,3 @@ for i in range(n):
     elif cmd[0]=="remove":
         list1.remove(int(cmd[1]))
         
-
-        

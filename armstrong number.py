@@ -13,4 +13,3 @@ if num1==s:
     print("armstrong number")
 else:
     print("not armstrong number")
-

@@ -16,7 +16,3 @@ else:
     value1= list1[m]
     value2= list1[m-1]
     print((value1+value2)/2)
-
-
-
-
