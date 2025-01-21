@@ -5,3 +5,4 @@ while i<=10:
     p=num*i
     print(f'{num}*{i}={p}')
     i=i+1
+
